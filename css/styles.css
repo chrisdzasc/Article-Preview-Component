@@ -1,4 +1,18 @@
 /*  =================================================
+    Custom fonts
+    =================================================   */
+
+    @font-face {
+        font-family: manrope-medium;
+        src: url(../assets/fonts/Manrope-Medium.woff2);
+    }
+
+    @font-face {
+        font-family: manrope-bold;
+        src: url(../assets/fonts/Manrope-Bold.woff2);
+    }
+
+/*  =================================================
     CSS Reset
     =================================================   */
 
