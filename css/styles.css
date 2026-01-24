@@ -110,3 +110,10 @@ html {
   line-height: 130%;
   letter-spacing: 0.25px;
 }
+
+.text--p2-medium {
+  font-family: manrope-medium, sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.4;
+  letter-spacing: 0.12px;
+}
