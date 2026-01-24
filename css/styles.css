@@ -117,3 +117,10 @@ html {
   line-height: 1.4;
   letter-spacing: 0.12px;
 }
+
+.text--p2-bold {
+  font-family: manrope-bold, sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.4;
+  letter-spacing: 0.12px;
+}
