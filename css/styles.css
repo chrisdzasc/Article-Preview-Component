@@ -98,4 +98,15 @@ html {
   --spacing-800: 6.4rem;
   --spacing-1300: 10.4rem;
   --spacing-2000: 16rem;
-}       
+}
+
+/*  =================================================
+    Utility Classes
+    =================================================   */
+
+.text--p1-bold {
+  font-family: manrope-bold, sans-serif;
+  font-size: 2rem;
+  line-height: 130%;
+  letter-spacing: 0.25px;
+}
