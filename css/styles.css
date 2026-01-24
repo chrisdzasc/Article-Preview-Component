@@ -71,6 +71,11 @@ h1, h2, h3, h4, h5, h6 {
   isolation: isolate;
 }
 
+/* 10 pixels = 1rem */
+html {
+  font-size: 62.5%;
+}
+
 /*  =================================================
     Custom Properties (Variables)
     =================================================   */
