@@ -171,3 +171,7 @@ body {
 .main__heading {
   color: var(--grey-900);
 }
+
+.main__text {
+  color: var(--grey-500);
+}
