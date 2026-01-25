@@ -161,3 +161,9 @@ body {
 
   max-width: 36.5rem;
 }
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-300);
+}
