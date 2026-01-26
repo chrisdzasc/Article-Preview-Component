@@ -190,3 +190,9 @@ body {
 .main__text {
   color: var(--grey-500);
 }
+
+.footer {
+  display: flex;
+  gap: var(--spacing-800);
+  max-height: 4rem;
+}
