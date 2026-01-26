@@ -148,8 +148,10 @@ body {
 
   width: 87%;
   max-width: 40rem;
+  min-height: 53.8rem;
   margin: 0 auto;
   padding: var(--spacing-0);
+  padding-bottom: 2rem;
   background-color: var(--white);
 
   border-radius: 1rem;
@@ -193,6 +195,39 @@ body {
 
 .footer {
   display: flex;
-  gap: var(--spacing-800);
   max-height: 4rem;
+}
+
+.data {
+  display: flex;
+  gap: var(--spacing-200);
+}
+
+.data__image {
+  border-radius: 49%;
+}
+
+.info__name {
+  color: var(--grey-900);
+  
+}
+
+.info__date {
+  color: var(--grey-400);
+}
+
+.btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  min-width: 3.2rem;
+  min-height: 3.2rem;
+  border: none;
+  cursor: pointer;
+}
+
+.btn {
+  border-radius: 49%;
 }
