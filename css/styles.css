@@ -140,6 +140,13 @@ body {
   background-color: var(--grey-200);
 }
 
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .article {
   display: flex;
   flex-direction: column;
