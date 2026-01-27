@@ -299,5 +299,18 @@ body {
     flex-direction: row;
     max-width: 73rem;
     min-height: 34.6rem;
+    padding: 0;
   }
+
+  .article__container {
+    height: 34.6rem;
+    width: 34%;
+
+    border-radius: 1rem 0 0 1rem;
+  }
+
+  .article__container-image {
+    object-position: 20%;
+  }
+
 }
