@@ -153,6 +153,9 @@ body {
   align-items: center;
   gap: var(--spacing-400);
 
+  position: relative;
+  overflow: hidden;
+
   width: 87%;
   max-width: 40rem;
   min-height: 53.8rem;
@@ -205,6 +208,7 @@ body {
 .footer {
   display: flex;
   max-height: 4rem;
+  position: relative;
 }
 
 .data {
@@ -230,13 +234,45 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  position: relative;
+  z-index: 1;
   
   min-width: 3.2rem;
   min-height: 3.2rem;
   border: none;
   cursor: pointer;
+  border-radius: 49%;
 }
 
-.btn {
-  border-radius: 49%;
+.share-nav {
+  display: flex;
+  align-items: center;
+  
+  position: absolute;
+  
+  min-height: 7.6rem;
+
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: var(--grey-900);
+
+  transform: translateY(100%);
+
+  padding: 0 var(--spacing-400);
+}
+
+.share-container {
+  display: flex;
+  gap: var(--spacing-300);
+}
+
+.share-container__text {
+  text-transform: uppercase;
+  color: var(--grey-400);
+}
+
+.share-links {
+  display: flex;
+  gap: var(--spacing-200);
 }
