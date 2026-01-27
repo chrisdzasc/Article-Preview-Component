@@ -289,3 +289,15 @@ body {
   display: flex;
   gap: var(--spacing-200);
 }
+
+/*  =================================================
+    Tablet Media Query
+    =================================================   */
+
+@media (min-width: 768px) {
+  .article {
+    flex-direction: row;
+    max-width: 73rem;
+    min-height: 34.6rem;
+  }
+}
