@@ -317,4 +317,8 @@ body {
     gap: var(--spacing-300);
   }
 
+  .footer {
+    gap: var(--spacing-1300);
+  }
+
 }
