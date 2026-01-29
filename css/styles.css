@@ -313,4 +313,8 @@ body {
     object-position: 20%;
   }
 
+  .content {
+    gap: var(--spacing-300);
+  }
+
 }
