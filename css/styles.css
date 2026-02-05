@@ -321,4 +321,43 @@ body {
     gap: var(--spacing-1300);
   }
 
+  .article {
+    overflow: visible;
+  }
+
+  .share-nav {
+    transform: translateY(0);
+
+    opacity: 0;
+    visibility: hidden;
+
+    left: unset;
+    padding: 1.8rem 3.8rem;
+    border-radius: 1rem;
+    bottom: 13rem;
+    right: -2.5rem;
+
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+
+    min-height: 6.7rem;
+    
+  }
+
+  .share-nav.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .share-nav::after {
+    content: "";
+    width: 2.4rem;
+    height: 2.4rem;
+    background-color: var(--grey-900);
+    position: absolute;
+    bottom: -1rem;
+    left: 50%;
+    transform: translateX(-50%) rotate(45deg);
+  }
+
 }
