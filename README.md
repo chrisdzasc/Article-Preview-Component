@@ -10,7 +10,7 @@ Key focus areas included managing distinct interaction states for the **share** 
 
 ## 🔗 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/demo-live_site-71C0D4?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![Live Demo](https://img.shields.io/badge/demo-live_site-71C0D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://article-preview-card-chrisdzasc.netlify.app/)
 
 ## 🎨 Visual Design
 
