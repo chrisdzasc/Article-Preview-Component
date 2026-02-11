@@ -16,8 +16,8 @@ Key focus areas included managing distinct interaction states for the **share** 
 
 | State | Mobile 📱 | Desktop 💻 |
 | :--- | :--- | :--- |
-| **Default** | <img src="./assets/screenshots/meet-tablet.png"  /> | <img src="./assets/screenshots/meet-desktop.png" /> |
-| **Active** | <img src="./assets/screenshots/meet-tablet.png"  /> | <img src="./assets/screenshots/meet-desktop.png" /> |
+| **Default** | <img src="./assets/screenshots/article-preview-card-mobile-default.png"  /> | <img src="./assets/screenshots/" /> |
+| **Active** | <img src="./assets/screenshots/article-preview-card-mobile-active.png"  /> | <img src="./assets/screenshots/" /> |
 
 ## 🎯 The Challenge
 
