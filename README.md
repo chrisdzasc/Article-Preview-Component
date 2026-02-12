@@ -53,4 +53,4 @@ The challenge was to build out this **article preview component** and get it loo
 
 - 💼 LinkedIn - [Christian Diaz](https://www.linkedin.com/in/chris-diazasc/)
 - 👾 Frontend Mentor - [@chrisdzasc](https://www.frontendmentor.io/profile/chrisdzasc)
-- 🧩 Frontend Mentor Solution - []()
+- 🧩 Frontend Mentor Solution - [🚀 Article Preview Component + Accessible Share Toggle ⚡](https://www.frontendmentor.io/solutions/-article-preview-component-accessible-share-toggle-kuzdbldv9i)
